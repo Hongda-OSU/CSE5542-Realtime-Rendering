@@ -1,0 +1,11 @@
+﻿  Lab3.cpp
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(90,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(91,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(92,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(93,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(207,28): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(207,21): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(386,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(409,26): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\CSE5542Lab3\Lab3.cpp(409,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  CSE5542Lab3.vcxproj -> C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab3\CSE5542Lab3\x64\Debug\CSE5542Lab3.exe

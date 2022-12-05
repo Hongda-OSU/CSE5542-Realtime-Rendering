@@ -1,0 +1,14 @@
+﻿Project1.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutPostRedisplay@0 referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutSwapBuffers@0 referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutIdleFunc@4 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutKeyboardFunc@4 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutReshapeFunc@4 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+Project1.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+Project1.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86\freeglut.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\linho\Desktop\CSE5542\Example\CSE5542Lab1\Debug\CSE5542Lab1.exe : fatal error LNK1120: 12 unresolved externals

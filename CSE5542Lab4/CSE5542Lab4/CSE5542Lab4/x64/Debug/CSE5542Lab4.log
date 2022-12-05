@@ -1,0 +1,13 @@
+﻿  Lab4.cpp
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(105,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(106,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(107,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(108,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(314,28): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(314,21): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(582,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(588,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(593,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(664,26): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\CSE5542Lab4\Lab4.cpp(664,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  CSE5542Lab4.vcxproj -> C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab4\CSE5542Lab4\x64\Debug\CSE5542Lab4.exe
