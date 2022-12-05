@@ -1,0 +1,14 @@
+﻿  Lab2.cpp
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(53,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(98,28): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(98,21): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(226,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(233,26): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(233,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(254,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(257,16): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(260,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(263,16): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(266,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\CSE5542Lab2\Lab2.cpp(269,16): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  CSE5542Lab2.vcxproj -> C:\Users\linho\Desktop\CSE5542\Homework\CSE5542Lab2\x64\Debug\CSE5542Lab2.exe
